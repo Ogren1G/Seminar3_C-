@@ -8,9 +8,9 @@ int d = (n % 100) / 10;
 
 if(a == b && c == d)
 {
-    Console.WriteLine("Это полиндром!!!");
+    Console.WriteLine("Это палиндром!!!");
 }
 else
 {
-    Console.WriteLine("Это не полиндром :(");
+    Console.WriteLine("Это не палиндром :(");
 }
